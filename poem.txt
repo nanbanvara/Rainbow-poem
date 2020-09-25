@@ -1,4 +1,4 @@
-The rainbow colors
+The rainbow colors and the unicorn
 
 Purple
 Pink
@@ -7,5 +7,6 @@ Blue
 Green
 Yellow
 Red
+White color in the Unicorn branch
 
 These are the colors of the poem..
